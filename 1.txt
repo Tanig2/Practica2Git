@@ -1,1 +1,5 @@
+Contenido en la rama main
 "Hola"
+=======
+Contenido en rama v0.2
+"Adiós"
